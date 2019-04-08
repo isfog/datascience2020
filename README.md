@@ -4,11 +4,11 @@ This repository contains the data for the ISFOG2020 pile driving prediction even
 
 ## Installation
 
-People who are new to data science are encouraged to first install the necessary tools on their machine. [An installation guide](notebooks/ISFOG 2020 - Pile driving prediction event - Installation.ipynb) is provided to guide users through the installation process.
+People who are new to data science are encouraged to first install the necessary tools on their machine. [An installation guide](https://nbviewer.jupyter.org/github/isfog/datascience2020/blob/master/notebooks/ISFOG%202020%20-%20Pile%20driving%20prediction%20event%20-%20Installation.ipynb) is provided to guide users through the installation process.
 
 ## Machine learning demo
 
-[A calculation notebook](Prediction event demo.ipynb) shows the necessary calculations for exploring the data and training a machine learning model. Model quality metrics and model validation are also covered. Based on this example, you can develop the model further or propose alternative prediction models. 
+[A calculation notebook](https://nbviewer.jupyter.org/github/isfog/datascience2020/blob/master/notebooks/Prediction%20event%20demo.ipynb) shows the necessary calculations for exploring the data and training a machine learning model. Model quality metrics and model validation are also covered. Based on this example, you can develop the model further or propose alternative prediction models. 
 
 ## Feedback and discussion
 
