@@ -17,3 +17,7 @@ If you run into any problems while installing the software or if you have questi
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/gpl-3.0/)
+
+## Acknowledgements
+
+The dataset is kindly provided by [Cathie Associates](http://www.cathie-associates.com/)
